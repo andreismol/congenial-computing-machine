@@ -1,0 +1,17 @@
+commit 7389bc964d2d13aca7179a98a99833c2a95c956c
+Author: andreismol <andreismolnikov00@gmail.com>
+Date:   Mon Jan 20 09:58:46 2020 +1100
+
+    added gitignore
+
+commit 26f60714d8f0a17570d2d8b6e619948dfc2f7816
+Author: andreismol <andreismolnikov00@gmail.com>
+Date:   Mon Jan 20 09:24:24 2020 +1100
+
+    added two new files
+
+commit 71319f404beae6dab48797e2b5110a960ec9cbae
+Author: andreismol <andreismolnikov00@gmail.com>
+Date:   Mon Jan 20 09:21:19 2020 +1100
+
+    added readme.txt
