@@ -1,28 +1,21 @@
-# This is a large heading
+# Andrei Smolnikov
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Sydney, in the state of New South Wales, in Australia.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favoirite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Heart of Darkness* by Joseph Conrad
+- *God is Not Great* by Christopher Hitchens
+- *Hawksmoor* by Peter Ackroyd
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+My favourite foods are:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Jelly
+2. Ham
+3. Apple sauce
