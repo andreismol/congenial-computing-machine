@@ -1,4 +1,8 @@
 Welcome to my first repo
 Learning Git is going well so far
 I added this line in the update-readme branch.
-It's not really sunny outside today.
+<<<<<<< HEAD
+
+=======
+It's rather sunny outside today.
+>>>>>>> update-readme
